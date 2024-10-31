@@ -1,1 +1,2 @@
-LEIA-ME
+LEIA-ME;
+Uma modificação foi feita no arquivo.
